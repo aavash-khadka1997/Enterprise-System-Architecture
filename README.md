@@ -1,7 +1,8 @@
 # Enterprise CRM & Billing Integration Architecture 
 
 
-**Organization:** DataHub Inc. (https://datahub.com.np) [Note: Since the original repo was not allowed to be shared due to NDA this is a later version with details that can be made public as per the NDA]
+**Organization:** DataHub Inc. (https://datahub.com.np) 
+[Note: Since the original repo was not allowed to be shared due to NDA this is a later version with details that can be made public as per the NDA]
 **Domain:** Enterprise Data Center & Critical IT Infrastructure
 **Role Focus:** System Analysis, Requirement Engineering, & Data Modeling
 
